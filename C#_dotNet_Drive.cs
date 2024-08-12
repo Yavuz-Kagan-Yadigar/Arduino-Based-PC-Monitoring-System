@@ -143,7 +143,7 @@ namespace CPU_GPU
                             ramyuzde = sensor.Value.GetValueOrDefault();
 
                         }
-                    ram =Math.Round(ramyuzde * 0.32,2) ;
+                    ram =Math.Round(ramyuzde * 0.32,2) ;//0.32yi kendi raminizi 0.01 ile çarparak değiştirin. 16gb ram=0.16 | replace 0.32 with your computers ram multiplied by 0.01.
                 }
 
 
