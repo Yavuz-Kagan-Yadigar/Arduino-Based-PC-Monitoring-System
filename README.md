@@ -3,9 +3,7 @@
 Arduino tabanlı (ben esp32 kullansam da neredeyse tüm geliştirme kartları ile uyumlu).Ayrıca koda eklediğim yorum satırları sayesinde başka ekranlar ile kolayca kullanabilirsiniz.
 
 An Arduino (in that case esp32,but its compatible with almost all dev boards) based PC monitoring system.Also thanks yo comment lines you can easly modify code to use it with other screens.
-
-https://github.com/Yavuz-Kagan-Yadigar/Arduino-Based-PC-Monitoring-System/releases/tag/publish
-
+You can download compiled app here: https://github.com/Yavuz-Kagan-Yadigar/Arduino-Based-PC-Monitoring-System/releases/tag/publish
 Default COM port:10 (you can change it from code too)
 How to set COM port to 10:
 
